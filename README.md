@@ -3,9 +3,9 @@
 
 - 👩‍🎓 I’m currently studying a Bachelor of **Computer Science (Professional) at Swinburne University of Technology**
 
-- 🌱 I’m currently expanding my skills on using **ReactJS**
+- 🌱 I’m currently expanding my skills with using **ReactJS**
 
-- 🔭 I'm currently working on a final year capstone project for university, which is a **Software Application for the small business Scriibi**
+- 🔭 I'm currently working on a final year capstone project for university, which is a **Software Application for the startup business Scriibi**
 
 - 📫 How to reach me: **alexandriag.801@gmail.com**
 
