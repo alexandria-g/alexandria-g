@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Alexandria :)</h1>
 <h3 align="center">A passionate software developer from Australia</h3>
 
-- 👩‍🎓 I’m currently studying a Bachelor of **Computer Science (Professional) at Swinburne University of Technology**
+🌟 Currently employed at **Suncorp Group where I contribute to developing enterprise-level solutions through full stack development**
 
-- 🌱 I’m currently expanding my skills with using **ReactJS**
+👩‍🎓 I have a Bachelor of **Computer Science (Professional) from Swinburne University of Technology**
 
-- 🔭 I'm currently working on a final year capstone project for university, which is a **Software Application for the startup business Scriibi**
+🌱 I’m currently expanding my skills with using **ReactJS**
 
-- 📫 How to reach me: **alexandriag.801@gmail.com**
+🔭 I'm currently working on **a travel blog**
 
-- ⚡ Fun fact **I'm the best at Mario Kart DS**
+📫 How to reach me: **alexandriag.801@gmail.com**
+
+⚡ A fun fact is that **I am the best at the original Mario Kart DS**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
