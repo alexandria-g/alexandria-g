@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Alexandria :)</h1>
-<h3 align="center">A creative full stack developer from Australia, bringing new ideas to life with code</h3>
+<h1 align="center">Hi 👋 I'm Alexandria :)</h1>
+<h3 align="center">A creative full stack engineer from Australia, bringing new ideas to life with code</h3>
 
-🌟 Currently employed at **Suncorp Group ☀️ developing scalable AI and automation solutions that drive efficiency and innovation across the enterprise**
+🌟 Currently employed at **Suncorp Group ☀️ engineering scalable AI and automation solutions that drive efficiency and innovation across the enterprise**
 
 👩‍🎓 I have a Bachelor of **Computer Science (Professional) from Swinburne University of Technology**
 
